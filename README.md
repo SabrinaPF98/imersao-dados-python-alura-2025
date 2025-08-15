@@ -1,4 +1,3 @@
-# imersao-dados-python-alura-2025
 # Dashboard de Salários na Área de Dados
 
 Este projeto cria um **dashboard interativo** para análise de salários na área de dados, utilizando **Python**, **Streamlit**, **Pandas** e **Plotly**.
@@ -41,10 +40,15 @@ Este projeto cria um **dashboard interativo** para análise de salários na áre
 ```bash
 git clone https://github.com/seuusuario/seu-repositorio.git
 
+```
 2.	Instale as dependências:
+```bash
 pip install streamlit pandas plotly
 
+```
 3.	Execute o dashboard:
+```bash
 streamlit run app_didatico.py
 
-4.	O dashboard será aberto no navegador automaticamente.
+```
+4. O dashboard será aberto no navegador automaticamente.
