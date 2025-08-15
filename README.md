@@ -40,3 +40,11 @@ Este projeto cria um **dashboard interativo** para análise de salários na áre
 1. Clone este repositório:
 ```bash
 git clone https://github.com/seuusuario/seu-repositorio.git
+
+2.	Instale as dependências:
+pip install streamlit pandas plotly
+
+3.	Execute o dashboard:
+streamlit run app_didatico.py
+
+4.	O dashboard será aberto no navegador automaticamente.
